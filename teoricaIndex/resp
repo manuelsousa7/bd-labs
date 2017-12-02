@@ -1,0 +1,14 @@
+1. -
+2. tipo btree
+3. -
+4. Time: 0.802 ms
+5. Time: 2.891 ms
+6. Time: 11.187 ms
+7. Time: 157.861 ms 
+8. Time: 1.069 ms
+9. SELECT count(account_number) from account where balance > 1000; Time: 28.436 ms
+10. Time: 213.255 ms
+11. Time: 15.758 ms
+12. Time: 1.944 ms
+13. Time: 163.301 ms
+
